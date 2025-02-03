@@ -1,0 +1,11 @@
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/QtVulkanApp.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/Shaders.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/PreBuildCommandF.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/PreBuildCommandV.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/QtVulkanApp_autogen_timestamp_deps.dir
+C:/Users/marce/OneDrive/Documents/GitHub/QtVulkanApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/QtVulkanApp_autogen.dir
